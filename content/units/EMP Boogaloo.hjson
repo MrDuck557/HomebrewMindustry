@@ -57,70 +57,70 @@ weapons: [
 }
 ]
 abilities: [
- {
+{
     type: UnitSpawnAbility
-    unit: flare
     spawnX: 10
     spawnY: 10
+    unit: flare
     spawnTime: 400
-  } 
-  {
+  }
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
     spawnY: -10
     spawnTime: 400
   } 
-  {
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
     spawnY: -20
     spawnTime: 400
-  } 
-  {
+  }
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
     spawnY: 20
     spawnTime: 400
   }
-   {
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
     spawnY: -30
     spawnTime: 400
   }
-   {
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
     spawnY: 30
     spawnTime: 400
   } 
-  {
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
     spawnY: -40
     spawnTime: 400
   }
-  {
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
     spawnY: 40
     spawnTime: 400
   } 
-  {
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
     spawnY: 50
     spawnTime: 400
   }
-  {
+{
     type: UnitSpawnAbility
     unit: flare
     spawnX: 10
@@ -139,8 +139,7 @@ damage: 10
 effect: melting
 }
 }
-=======
-  {
+{
     type: StatusFieldAbility
     duration: 1000
     reload: 1
@@ -148,10 +147,8 @@ effect: melting
     effect: {
       name:uhoh
       localizedName: boogaloo
-      damage: 10
-      //effect: shocked
+      damageMultiplier: 10
     }
   }
->>>>>>> Stashed changes
 ]
 immunities: [melting]
