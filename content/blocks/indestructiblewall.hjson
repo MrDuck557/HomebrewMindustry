@@ -1,0 +1,11 @@
+type: Wall
+localizedName: indestructible wall
+description: "lel"
+size: 1
+chanceDeflect: 1938278
+lightningChance: 999.99
+lightningDamage: 270373
+requirements: [
+]
+category: defense
+research: router
