@@ -2,7 +2,6 @@ type: Wall
 localizedName: opwall
 description: "lel"
 size: 1
-
 chanceDeflect: 1938278
 lightningChance: 999.99
 lightningDamage: 270373
