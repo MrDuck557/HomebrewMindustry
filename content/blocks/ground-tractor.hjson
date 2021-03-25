@@ -1,0 +1,6 @@
+name: Ground Parallax
+type: TractorBeamTurret
+category: turret
+requirements:[copper/1]
+targetAir: false
+targetGround: true

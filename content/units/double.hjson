@@ -1,0 +1,7 @@
+name: Double
+abilities:[
+  {
+    type: UnitSpawnAbility
+    unit: double
+  }
+]

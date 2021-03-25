@@ -1,0 +1,27 @@
+type: ItemTurret
+name: bulletMulti
+category: turret
+size: 1
+reload: 30
+range: 20
+maxAmmo: 20
+requirements:[
+  copper/1
+]
+ammoTypes: {
+  copper: standardCopper
+
+  graphite: {
+    instantDisappear: true
+    fragBullet: standardCopper
+    fragBullets: 2
+    fragVelocityMin: 1
+    fragVelocityMax: 1
+    fragCone: 10
+    fragAngle: 0
+    hitEffect: null
+    despawnEffect: null
+    shootEffect: null
+    smokeEffect: null
+  }
+}

@@ -1,0 +1,8 @@
+name: "homebrew"
+displayName: "Duck Homebrew"
+author: MrDuck557
+description: "mod testing"
+version: "1.0"
+minGameVersion: "126.1"
+dependencies: [ ]
+hidden: false

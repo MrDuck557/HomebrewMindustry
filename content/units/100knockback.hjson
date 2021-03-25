@@ -1,0 +1,9 @@
+name: Home Run
+weapons:[
+{
+  reload: 10
+  bullet: {
+    knockback: 100
+  }
+}
+]

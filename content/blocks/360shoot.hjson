@@ -1,0 +1,15 @@
+type: ItemTurret
+name: aimIsOff
+category: turret
+requirements:[
+  copper/1
+]
+size: 1
+reloadTime: 1
+range: 20
+maxammo: 20
+ammoTypes: {
+  copper: standardCopper
+}
+inaccuracy: 180
+shootCone: 360
