@@ -9,6 +9,52 @@ hitSize: 32
 health: 32550
 rotateSpeed: 3
 rotateShooting: false
+weapons: [
+{
+  shots: 13
+  shake: 10
+  reload: 60
+  shootSound: explosionBig
+  shootCone: 360
+  ignoreRotation: true
+  x: 0
+  y: 0
+  mirror: false 
+  bullet: {
+    type: BombBulletType
+    lifetime: 0
+    splashDamage: 650
+    splashDamageRadius: 300
+    killShooter: false
+    hittable: false
+    despawnEffect: impactcloud
+    maxRange: 32
+    collidesAir: true
+  }
+}
+{
+  shots: 13
+  shake: 10
+  reload: 60
+  shootSound: explosionBig
+  shootCone: 360
+  ignoreRotation: true
+  x: 0
+  y: 0
+  mirror: false 
+  bullet: {
+    type: BombBulletType
+    lifetime: 0
+    splashDamage: 650
+    splashDamageRadius: 300
+    killShooter: false
+    hittable: false
+    despawnEffect: impactcloud
+    maxRange: 32
+    collidesAir: true
+  }
+}
+]
 abilities: [
  {
     type: UnitSpawnAbility
@@ -80,4 +126,17 @@ abilities: [
     spawnY: -50
     spawnTime: 400
   }
-  ]
+  {
+type: StatusEffectField
+duration: 1000
+reload: 1
+range: 400
+effect: {
+name:uhoh
+localizedName: boogaloo
+damage: 10
+effect: shocked
+}
+}
+]
+immunities: [shocked]
