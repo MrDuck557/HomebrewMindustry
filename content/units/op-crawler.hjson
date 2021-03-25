@@ -1,0 +1,46 @@
+type: mech
+speed: 2
+name: CrawlerButDumb
+description: Boom not weak
+range: 5
+weapons:[
+{
+  name: taser
+  rotate: true
+  reload: 60
+  x: 0
+  y: 0
+  mirror: false
+  shots: 8
+  spacing: 45
+  shake: 1
+  bullet:{
+    killShooter: true
+    speed: 1
+    lifetime: 60
+    damage: 60
+    lightning: 3
+    fragBullets: 6
+    hitSize: 40
+    drawSize: 120
+    fragBullet:{
+      speed: 1
+      lifetime: 30
+      damage: 60
+      lightning: 3
+      fragBullets: 8
+      hitSize: 40
+      drawSize: 120
+      fragBullet:{
+        speed: 0.5
+        lifetime: 30
+        damage: 60
+        lightning: 3
+        fragBullets: 6
+        hitSize: 40
+        drawSize: 120
+      }
+    }
+  }
+}
+]
