@@ -127,17 +127,17 @@ abilities: [
     spawnY: -50
     spawnTime: 400
   }
-  {
+{
 type: StatusFieldAbility
 duration: 1000
 reload: 1
 range: 400
 effect: {
-name:uhoh
-localizedName: boogaloo
+name:TemporalTimelineStrike
+localizedName: Temporal Timeline Strike
 damage: 10
-effect: shocked
+effect: melting
 }
 }
 ]
-immunities: [shocked]
+immunities: [melting]
