@@ -28,6 +28,7 @@ weapons: [
     homingPower: 10.0
     homingRange : 100
   }
+]
 shootCone: 360
 spacing: 12
 shots: 30
