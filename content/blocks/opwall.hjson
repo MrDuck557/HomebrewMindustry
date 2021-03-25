@@ -1,5 +1,5 @@
 type: Wall
-localizedName: indestructible wall
+localizedName: opwall
 description: "lel"
 size: 1
 chanceDeflect: 1938278
