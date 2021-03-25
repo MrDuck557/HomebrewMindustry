@@ -1,4 +1,4 @@
-localizedName: Fucking op
+localizedName: ****ing op
 description:
   '''
 Op that's it lmao
@@ -7,7 +7,7 @@ Op that's it lmao
 
 
 
-Fuck
+****
   '''
 type: ItemTurret
 reloadTime: 0
@@ -27,7 +27,7 @@ ammoUseEffect: casing3
 maxAmmo: 20
 ammoTypes: {
   copper: {
-    sprite: bitch
+    sprite: b****
     collidesTiles: false
     speed: 100
     height: 100
