@@ -1,5 +1,6 @@
 type: mech
-speed: 2
+controller: SuicideAI
+speed: 1.1
 name: CrawlerButDumb
 description: Boom not weak
 range: 5

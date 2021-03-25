@@ -139,5 +139,19 @@ damage: 10
 effect: melting
 }
 }
+=======
+  {
+    type: StatusFieldAbility
+    duration: 1000
+    reload: 1
+    range: 400
+    effect: {
+      name:uhoh
+      localizedName: boogaloo
+      damage: 10
+      //effect: shocked
+    }
+  }
+>>>>>>> Stashed changes
 ]
 immunities: [melting]

@@ -13,6 +13,20 @@ plans: [
     ]
     time: 250
   }
+  {
+    unit: 100knockback
+    requirements: [
+      graphite/30
+    ]
+    time: 300
+  }
+  {
+    unit: double
+    requirements:[
+      silicon/10
+      titanium/10
+    ]
+  }
 ]
 category: units
 requirements: [

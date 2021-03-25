@@ -1,0 +1,23 @@
+type: Reconstructor
+name: MOAR FONKY
+description: Makes units MOAR FONKY
+size: 5
+research: wheeeeeeUnit
+category: units
+requirements: [
+  copper/400
+  lead/200
+  metaglass/100
+]
+consumes:{
+  power: 1.15
+  items: {
+    items:[
+      surge-alloy/100
+    ]
+  }
+}
+upgrades: [
+  [crawler, op-crawler]
+  [op-crawler, "EMP Boogaloo"]
+]
