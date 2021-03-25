@@ -6,7 +6,7 @@ accel: 0.5
 flying: false
 range: 576
 hitSize: 32
-health: 1
+health: 200
 rotateSpeed: 3
 rotateShooting: false
 canBoost: true
