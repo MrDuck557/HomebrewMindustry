@@ -1,1 +1,0 @@
-Blocks.opwall.health=Infinity;
