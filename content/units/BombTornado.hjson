@@ -17,6 +17,9 @@ weapons: [
   rotate: false
   reload:  1
   shootSound: shootBig
+  shootCone: 360
+  spacing: 12
+  shots: 30
   bullet: {
     damage: 90000
     speed: 10
@@ -27,8 +30,5 @@ weapons: [
     width: 12
     homingPower: 10.0
     homingRange : 100
-  }
-]
-shootCone: 360
-spacing: 12
-shots: 30
+ }
+] 
