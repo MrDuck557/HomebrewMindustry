@@ -128,7 +128,7 @@ abilities: [
     spawnTime: 400
   }
   {
-type: StatusEffectField
+type: StatusFieldAbility
 duration: 1000
 reload: 1
 range: 400
