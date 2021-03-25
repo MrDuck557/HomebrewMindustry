@@ -1,1 +1,1 @@
-require("blocks/walls/opwall");
+require("blocks/opwall");
