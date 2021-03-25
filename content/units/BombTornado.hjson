@@ -11,16 +11,14 @@ rotateSpeed: 3
 rotateShooting: false
 weapons: [
 {
-name:megadumdum
- x: 0
-    y: 0
-    rotate: false
-    reload:  1
-    shootSound: shootBig
-    bullet: {
+  name: megadumdum
+  x: 0
+  y: 0
+  rotate: false
+  reload:  1
+  shootSound: shootBig
+  bullet: {
     damage: 90000
-    
-
     speed: 10
     lifetime: 100
     pierce:true 
@@ -29,5 +27,7 @@ name:megadumdum
     width: 12
     homingPower: 10.0
     homingRange : 100
-shootCOne: 360
+  }
+shootCone: 360
+spacing: 12
 shots: 30
