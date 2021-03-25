@@ -1,0 +1,22 @@
+name: "Wheee unit make"
+description: "It make unit which go be whe"
+details: ":)"
+type: UnitFactory
+health: 138
+size: 5
+plans: [
+  {
+    unit: farenheight
+    requirements: [
+      coal/10
+      lead/5
+    ]
+    time: 250
+  }
+]
+category: units
+requirements: [
+copper/85
+lead/138
+]
+research: ground-factory

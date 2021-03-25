@@ -1,0 +1,62 @@
+type: mech
+name: "Farenheight"
+description: "Sparkie sparkie :D."
+details: "Can't kill anything... unless..."
+speed: 1.2
+health: 450
+armor: 2
+drag: 0.4
+aimDst: 10
+range: 20
+hitSize: 4
+maxRange: 25
+buildSpeed: 0
+clipSize: 1
+flying: false
+faceTarget: true
+rotateShooting : true
+mineTier: 0
+mineSpeed: 0
+rotateSpeed: 7
+lowAltitude: false
+omniMovement: true
+canDrown: false
+canBoost: true
+weapons: [ 
+{
+name: none
+rotate: true
+shootSound: explosion
+chargeSound: spark
+soundPitchMin: 0.35
+soundPitchMax: 0.55
+mirror: false
+shake: 10
+shots: 16
+shotDelay: 5
+inaccuracy: 2
+spacing: 10
+x: 0
+y: 0
+reload: 45
+cooldownTime: 115
+shootStatusDuration: 125
+shootStatus: unmoving
+firstShotDelay: 85
+bullet: {
+type: LightningBulletType
+lightningLength: 10
+lightningLengthRand: 13
+healPercent: 0
+collidesTeam: true
+damage: 0
+status: shocked
+}
+}]
+research: {
+parent: crawler
+requirements: [
+    coal/69
+    silicon/1337
+]
+}
