@@ -1,1 +1,1 @@
-Blocks.opwall.health=Infinity;
+Blocks.opwall.health=27226482;
