@@ -1,20 +1,53 @@
-name: anoverlyopturret
-description: "op totally"
-health: 1937228
-size: 1
-rotateSpeed: 0.0
-shootCone: 360
-range: 500
-recoilAmount: 0
+localizedName: Fucking op
+description:
+  '''
+Op that's it lmao
+
+
+
+
+
+Fuck
+  '''
+type: ItemTurret
 reloadTime: 0
-inaccuracy: 10.0
-ammoUseEffect: none
-shots: 100
-spread: 50
-maxAmmo: 150
-shootSound: missile
-itemCapacity: 250
-requirements:[
+recoilAmount: 0
+rotateSpeed: 1000
+shootCone: 420
+range: 2000
+heatColor: a2a2a2
+cooldown: 0.00
+size: 1
+shots: 420
+spread: 20
+inaccuracy: 20
+targetAir: true
+targetGround: true
+ammoUseEffect: casing3
+maxAmmo: 20
+ammoTypes: {
+  copper: {
+    sprite: bitch
+    collidesTiles: false
+    speed: 100
+    height: 100
+    width: 100
+    drawSize: 0
+    hitSize: 100
+    pierce: true
+    lifetime: 4000
+    knockback: 1000
+    ammoMultiplier: 10
+    damage: 4622836
+    hitEffect: ballfire
+    despawnEffect: none
+    shootEffect: none
+    smokeEffect: none
+    incendChance: 236283
+  }
+}
+requirements: [
 ]
-research: duo
 category: turret
+research: duo
+shootSound: buttonClick
