@@ -19,7 +19,6 @@ consumes:{
 }
 upgrades: [
   [crawler, op-crawler]
-  [op-crawler, "EMP Boogaloo"]
-  ["EMP Boogaloo", "BombTornado"] 
-  ]
-  buildVisibility: shown
+  [dagger, resist-burn]
+]
+buildVisibility: shown

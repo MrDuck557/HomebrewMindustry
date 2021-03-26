@@ -1,0 +1,27 @@
+type: Reconstructor
+name: TOO FONKY
+description: These units are TOO FONKY to exist, but they exist anyways
+size: 5
+research: moar-fonky
+category: units
+requirements: [
+  silicon/200
+  metaglass/200
+  titanium/200
+  thorium/10
+]
+consumes:{
+  power: 2
+  items: {
+    items: [
+      surge-alloy/200
+      phase-fabric/100
+      thorium/50
+      blast-compound/50
+    ]
+  }
+}
+upgrades: [
+  [op-crawler, "EMP Boogaloo"]
+  [atrax, "BombTornado"]
+]
