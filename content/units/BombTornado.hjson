@@ -1,4 +1,4 @@
-type: naval
+type: flying
 localizedName: Bomb Tornado 
 description: Shoots homing projectile  
 speed: 0.5
@@ -30,6 +30,7 @@ weapons: [
     width: 12
     homingPower: 10.0
     homingRange : 100
+    type: BombBulletType
  }
 } 
 ]
