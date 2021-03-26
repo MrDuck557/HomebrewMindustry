@@ -1,5 +1,6 @@
 type: ItemTurret
 name: bulletMulti
+localizedName: Ah yes , the frag
 category: turret
 size: 1
 reload: 30
