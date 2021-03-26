@@ -20,5 +20,7 @@ consumes:{
 upgrades: [
   [crawler, op-crawler]
   [dagger, resist-burn]
+  [mace, tonk]
+  [nova, negative-sap]
 ]
 buildVisibility: shown

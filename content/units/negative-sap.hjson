@@ -1,0 +1,23 @@
+type: mech
+name: Negative Sap
+description: I set the sap strength to -1. You see what happened
+range: 12
+armor: 2
+itemCapacity: 30
+weapons: [
+{
+  name: negative-sapper
+  rotate: true
+  bullet: {
+    type: SapBulletType
+    speed: 1
+    lifetime: 25
+    damage: 20
+    hittable: false
+    reflectable: false
+    sapStrength: -1
+    color: 00a8f3
+  }
+  reload: 60
+}
+]

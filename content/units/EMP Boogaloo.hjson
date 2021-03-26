@@ -136,7 +136,7 @@ effect: {
 name: WarpdriveonUnits
 localizedName: A MK.XI Mobile warpgate
 damage: -10
-effect: overclock
+effect: overclocked
 }
 }
 {
