@@ -25,11 +25,11 @@ weapons: [
     type: BombBulletType
     lifetime: 0
     splashDamage: 650
-    splashDamageRadius: 300
+    splashDamageRadius: 400
     killShooter: false
     hittable: false
     despawnEffect: impactcloud
-    maxRange: 32
+    maxRange: 400
     collidesAir: true
   }
 }
