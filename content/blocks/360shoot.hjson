@@ -1,5 +1,6 @@
 type: ItemTurret
 name: aimIsOff
+localizedName: 360 Noshoot
 category: turret
 requirements:[
   copper/1
