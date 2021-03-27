@@ -19,11 +19,11 @@ weapons: [
   shootSound: shootBig
   shootCone: 360
   spacing: 12
-  shots: 30
+  shots: 6
   bullet: {
     damage: 90000
     speed: 10
-    lifetime: 100
+    lifetime: 10
     pierce:true 
     pierceBuilding: true
     height: 20
