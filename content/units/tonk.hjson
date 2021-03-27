@@ -6,7 +6,7 @@ rotateShooting: false
 hitSize: 32
 canDrown: false
 armor: 75
-speed: 2
+speed: 0.4
 rotateSpeed: 2.4
 commandLimit: 6
 singleTarget: true
