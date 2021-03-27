@@ -2,3 +2,28 @@ name: Tonk
 health: 2147483647
 type: mech
 description: Has altogether too much health
+rotateShooting: false
+hitSize: 32
+canDrown: false
+armor: 75
+speed: 2
+rotateSpeed: 2.4
+commandLimit: 6
+singleTarget: true
+weapons: [
+{
+name: tank-artillery
+x: 0
+y: 0
+rotate: true
+reload: 40
+shootSound: shootBig
+bullet: {
+type: BasicBulletType
+damage: 700
+speed: 40
+lifetime: 100
+trailColor: ff0000
+}
+}
+]
