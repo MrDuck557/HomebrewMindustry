@@ -24,4 +24,5 @@ consumes:{
 upgrades: [
   [op-crawler, "EMP Boogaloo"]
   [atrax, "BombTornado"]
+  [vela, gayser]
 ]

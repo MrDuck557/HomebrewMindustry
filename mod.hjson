@@ -4,5 +4,6 @@ author: MrDuck557
 description: "mod testing"
 version: "1.0"
 minGameVersion: "126.1"
+repo: MrDuck557/HomebrewMindustry
 dependencies: [ ]
 hidden: false
