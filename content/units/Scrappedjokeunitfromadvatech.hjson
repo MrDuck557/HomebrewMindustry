@@ -110,17 +110,18 @@ weapons: [
     }
  } 
 abilities: [
-{
-type: StatusFieldAbility
-duration: 26282372
-reload: 1
-range: 1
-effect: {
-name: jokeboss
-localizedName: A FUCKIN JOKE EFFECT
-damage: 37363837
-healthMultiplier: 3826382
-speedMultiplier: 1
-effect: overclocked
-}
+  {
+   type: StatusFieldAbility
+   duration: 26282372
+   reload: 1
+   range: 1
+   effect: {
+   name: jokeboss
+   localizedName: A FUCKIN JOKE EFFECT
+   damage: 37363837
+   healthMultiplier: 3826382
+   speedMultiplier: 1
+   effect: overclocked
+   } 
+ } 
 ] 
