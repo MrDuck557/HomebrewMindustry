@@ -1,7 +1,7 @@
 type: mech
 localizedName: jok
 description: hopefully it works
-speed: 30
+speed: 10
 drag: 0.0
 hitSize: 1
 rotateSpeed: 200.00
@@ -45,7 +45,7 @@ abilities: [
    localizedName: A FUCKIN JOKE EFFECT
    damage: 373638
    healthMultiplier: 382638
-   speedMultiplier: 1
+   speedMultiplier: 0.00
    effect: overclocked
    } 
  } 
