@@ -28,6 +28,7 @@ weapons: [
       color: bf92f9
       knockback: 3728
     }
+ }
      {
     name: saptwo
     x: -5
@@ -47,6 +48,7 @@ weapons: [
       color: bf92f9
       knockback: 362834
     }
+ } 
      {
     name: saptre
     x: -5
@@ -66,6 +68,7 @@ weapons: [
       color: bf92f9
       knockback: 27372
     }
+ } 
      {
     name: sapfour
     x: 5
@@ -85,6 +88,7 @@ weapons: [
       color: bf92f9
       knockback: 37282
     }
+ } 
      {
     name: mastersap
     x: 0
@@ -104,6 +108,8 @@ weapons: [
       color: bf92f9
       knockback: 3738283
     }
+ } 
+abilities: [
 {
 type: StatusFieldAbility
 duration: 26282372
@@ -117,3 +123,4 @@ healthMultiplier: 3826382
 speedMultiplier: 1
 effect: overclocked
 }
+] 
