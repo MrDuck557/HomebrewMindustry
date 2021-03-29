@@ -1,0 +1,119 @@
+type: mech
+localizedName: jok
+description: hopefully it works
+speed: 30
+drag: 0.0
+hitSize: 1
+rotateSpeed: 200.00
+health: 183362834
+armor: 3732634
+mechFrontSway: 0.5
+weapons: [
+    {
+    name: sapone
+    x: 5
+    y: 5
+    rotate: true
+    recoil: 3
+    reload: 10
+    shootSound: sap
+    ejectEffect: none
+    bullet: {
+      type: SapBulletType
+      damage: 372846
+      length: 300
+      sapStrength: 26329.50
+      shootEffect: shootLiquid
+      hitEffect: hitLiquid
+      color: bf92f9
+      knockback: 3728
+    }
+     {
+    name: saptwo
+    x: -5
+    y: -5
+    rotate: true
+    recoil: 3
+    reload: 10
+    shootSound: sap
+    ejectEffect: none
+    bullet: {
+      type: SapBulletType
+      damage: 2763733
+      length: 300
+      sapStrength: 363.50
+      shootEffect: shootLiquid
+      hitEffect: hitLiquid
+      color: bf92f9
+      knockback: 362834
+    }
+     {
+    name: saptre
+    x: -5
+    y: 10
+    rotate: true
+    recoil: 3
+    reload: 10
+    shootSound: sap
+    ejectEffect: none
+    bullet: {
+      type: SapBulletType
+      damage: 372843
+      length: 300
+      sapStrength: 300
+      shootEffect: shootLiquid
+      hitEffect: hitLiquid
+      color: bf92f9
+      knockback: 27372
+    }
+     {
+    name: sapfour
+    x: 5
+    y: -10
+    rotate: true
+    recoil: 3
+    reload: 10
+    shootSound: sap
+    ejectEffect: none
+    bullet: {
+      type: SapBulletType
+      damage: 272923
+      length: 300
+      sapStrength: 300
+      shootEffect: shootLiquid
+      hitEffect: hitLiquid
+      color: bf92f9
+      knockback: 37282
+    }
+     {
+    name: mastersap
+    x: 0
+    y: 0
+    rotate: true
+    recoil: 3
+    reload: 11
+    shootSound: sap
+    ejectEffect: none
+    bullet: {
+      type: SapBulletType
+      damage: 22738283
+      length: 500
+      sapStrength: 372833
+      shootEffect: shootLiquid
+      hitEffect: hitLiquid
+      color: bf92f9
+      knockback: 3738283
+    }
+{
+type: StatusFieldAbility
+duration: 26282372
+reload: 1
+range: 1
+effect: {
+name: jokeboss
+localizedName: A FUCKIN JOKE EFFECT
+damage: 37363837
+healthMultiplier: 3826382
+speedMultiplier: 1
+effect: overclocked
+}
