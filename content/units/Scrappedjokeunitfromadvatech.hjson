@@ -7,7 +7,7 @@ hitSize: 1
 rotateSpeed: 200.00
 health: 183362
 flying: true
-armor: 3732634
+armor: 373263
 mechFrontSway: 0.5
 weapons: [
     {
@@ -29,8 +29,8 @@ weapons: [
       color: bf92f9
       knockback: 300
     }
- }
-     {
+  } 
+    {
     name: saptwo
     x: -5
     y: -5
@@ -41,7 +41,7 @@ weapons: [
     ejectEffect: none
     bullet: {
       type: SapBulletType
-      damage: 2763733
+      damage: 276373
       length: 300
       sapStrength: 10.0
       shootEffect: shootLiquid
@@ -50,7 +50,7 @@ weapons: [
       knockback: 300
     }
  } 
-     {
+    {
     name: saptre
     x: -5
     y: 10
@@ -61,7 +61,7 @@ weapons: [
     ejectEffect: none
     bullet: {
       type: SapBulletType
-      damage: 372843
+      damage: 37284
       length: 300
       sapStrength: 10.0
       shootEffect: shootLiquid
@@ -70,7 +70,7 @@ weapons: [
       knockback: 300
     }
  } 
-     {
+    {
     name: sapfour
     x: 5
     y: -10
@@ -81,7 +81,7 @@ weapons: [
     ejectEffect: none
     bullet: {
       type: SapBulletType
-      damage: 272923
+      damage: 27292
       length: 300
       sapStrength: 10.0
       shootEffect: shootLiquid
@@ -90,7 +90,7 @@ weapons: [
       knockback: 10.0
     }
  } 
-     {
+    {
     name: mastersap
     x: 0
     y: 0
@@ -101,7 +101,7 @@ weapons: [
     ejectEffect: none
     bullet: {
       type: SapBulletType
-      damage: 22738283
+      damage: 227382
       length: 500
       sapStrength: 10.0
       shootEffect: shootLiquid
@@ -113,7 +113,7 @@ weapons: [
 abilities: [
   {
    type: StatusFieldAbility
-   duration: 262823
+   duration: 26282
    reload: 1
    range: 1
    effect: {
