@@ -5,7 +5,8 @@ speed: 30
 drag: 0.0
 hitSize: 1
 rotateSpeed: 200.00
-health: 183362834
+health: 183362
+flying: true
 armor: 3732634
 mechFrontSway: 0.5
 weapons: [
@@ -22,11 +23,11 @@ weapons: [
       type: SapBulletType
       damage: 372846
       length: 300
-      sapStrength: 26329.50
+      sapStrength: 10.0
       shootEffect: shootLiquid
       hitEffect: hitLiquid
       color: bf92f9
-      knockback: 3728
+      knockback: 300
     }
  }
      {
@@ -42,11 +43,11 @@ weapons: [
       type: SapBulletType
       damage: 2763733
       length: 300
-      sapStrength: 363.50
+      sapStrength: 10.0
       shootEffect: shootLiquid
       hitEffect: hitLiquid
       color: bf92f9
-      knockback: 362834
+      knockback: 300
     }
  } 
      {
@@ -62,11 +63,11 @@ weapons: [
       type: SapBulletType
       damage: 372843
       length: 300
-      sapStrength: 300
+      sapStrength: 10.0
       shootEffect: shootLiquid
       hitEffect: hitLiquid
       color: bf92f9
-      knockback: 27372
+      knockback: 300
     }
  } 
      {
@@ -82,11 +83,11 @@ weapons: [
       type: SapBulletType
       damage: 272923
       length: 300
-      sapStrength: 300
+      sapStrength: 10.0
       shootEffect: shootLiquid
       hitEffect: hitLiquid
       color: bf92f9
-      knockback: 37282
+      knockback: 10.0
     }
  } 
      {
@@ -102,24 +103,24 @@ weapons: [
       type: SapBulletType
       damage: 22738283
       length: 500
-      sapStrength: 372833
+      sapStrength: 10.0
       shootEffect: shootLiquid
       hitEffect: hitLiquid
       color: bf92f9
-      knockback: 3738283
+      knockback: 300
     }
  } 
 abilities: [
   {
    type: StatusFieldAbility
-   duration: 26282372
+   duration: 262823
    reload: 1
    range: 1
    effect: {
    name: jokeboss
    localizedName: A FUCKIN JOKE EFFECT
-   damage: 37363837
-   healthMultiplier: 3826382
+   damage: 373638
+   healthMultiplier: 382638
    speedMultiplier: 1
    effect: overclocked
    } 
