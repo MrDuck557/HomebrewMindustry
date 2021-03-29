@@ -40,6 +40,8 @@ weapons: [
     oscScl: 0.8
     oscMag: 1.75
     largeHit: true
+    hittable: false
+    reflectable: false
   }
 }
 ]
