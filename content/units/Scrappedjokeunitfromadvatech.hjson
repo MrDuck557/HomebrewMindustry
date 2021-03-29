@@ -11,25 +11,29 @@ armor: 373263
 mechFrontSway: 0.5
 weapons: [
     {
-    name: mastersap
+    name: railgun
+    mirror: false
     x: 0
     y: 0
-    rotate: true
-    recoil: 3
-    reload: 11
-    shootSound: sap
-    ejectEffect: none
+    shootCone: 5
+    shots: 360
+    shootY: 11
+    reload: 0
+    cooldownTime: 20
+    shootSound: railgun
+    recoil: 0
     bullet: {
-      type: SapBulletType
-      damage: 227382
-      length: 500
-      sapStrength: 10.0
-      shootEffect: shootLiquid
-      hitEffect: hitLiquid
-      color: bf92f9
-      knockback: 300
-    }
+      type: RailBulletType
+      damage: 638263
+      buildingDamageMultiplier: 10.0
+      pierceDamageFactor: 100.00
+      length: 1000
+      shootEffect: none
+      hiteffect: railHit
+      updateEffectSeg: 100
+   } 
  } 
+] 
 abilities: [
   {
    type: StatusFieldAbility
