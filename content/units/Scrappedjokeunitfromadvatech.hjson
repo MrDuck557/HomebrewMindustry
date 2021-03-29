@@ -43,9 +43,9 @@ abilities: [
    effect: {
    name: jokeboss
    localizedName: A FUCKIN JOKE EFFECT
-   damage: 373638
+   //damage: 373638
    healthMultiplier: 382638
-   speedMultiplier: 0.00
+   //speedMultiplier: 0.00
    effect: overclocked
    } 
  } 
