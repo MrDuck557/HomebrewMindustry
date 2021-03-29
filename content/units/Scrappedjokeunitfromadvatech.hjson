@@ -6,7 +6,7 @@ drag: 0.0
 hitSize: 1
 rotateSpeed: 200.00
 health: 183362
-flying: true
+flying: false
 armor: 373263
 mechFrontSway: 0.5
 weapons: [
