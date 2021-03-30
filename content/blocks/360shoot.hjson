@@ -8,7 +8,7 @@ requirements:[
 size: 1
 reloadTime: 1
 range: 20
-maxammo: 20
+maxAmmo: 20
 ammoTypes: {
   copper: standardCopper
 }
