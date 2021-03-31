@@ -9,3 +9,4 @@ armor: 75
 speed: 0.4
 rotateSpeed: 2.4
 commandLimit: 6
+research: mace

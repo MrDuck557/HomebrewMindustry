@@ -1,0 +1,35 @@
+name: don't touch
+description: do not the unit
+controller: SuicideAI
+type: mech
+weapons: [
+{
+  name: sorod
+  reload: 1
+  x: 0
+  y: 0
+  mirror: false
+  continuous: false
+  shootSound: null
+  bullet: {
+    type: ContinuousLaserBulletType
+    shootEffect: none
+    smokeEffect: none
+    length: 16
+    width: 1
+    lightStroke: 10
+    fadeTime: 0
+    shake: 0
+    lifetime: 2
+    damage: 10
+    spaceMag: 10
+    colors: [ffffffff]
+    strokes: [1.0]
+    tscales: [1]
+    lenscales: [1]
+    oscScl: 0
+    oscMag: 0
+    largeHit: false
+  }
+}
+]

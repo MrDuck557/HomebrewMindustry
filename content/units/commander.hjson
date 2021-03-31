@@ -1,0 +1,4 @@
+name: commander
+health: 100000
+commandLimit: 100
+type: mech
