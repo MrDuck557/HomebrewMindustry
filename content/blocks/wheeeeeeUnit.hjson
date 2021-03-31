@@ -27,6 +27,30 @@ plans: [
       titanium/10
     ]
   }
+  {
+    unit: commander
+    requirements: [
+      phase-fabric/10
+      silicon/50
+    ]
+    time: 2400
+  }
+  {
+    unit: commander-air
+    requirements: [
+      phase-fabric/10
+      silicon/50
+    ]
+    time: 2400
+  }
+  {
+    unit: tractor-unit
+    requirements: [
+      titanium/15
+      silicon/20
+    ]
+    time: 600
+  }
 ]
 category: units
 requirements: [

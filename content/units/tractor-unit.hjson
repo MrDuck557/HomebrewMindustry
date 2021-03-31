@@ -3,8 +3,13 @@ description: "Someone else made this, but I'm making it in hjson.\nWarning! Velo
 health: 2000
 speed: 0.7
 type: mech
-singleTarget: true
+singleTarget: false
 rotateSpeed: 5
+research: parallax
+requirements: [
+  titanium/15
+  silicon/20
+]
 weapons: [
 {
   name: unit-tractor-beam

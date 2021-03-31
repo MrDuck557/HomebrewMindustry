@@ -7,3 +7,7 @@ weapons:[
   }
 }
 ]
+research: wheeeeeeUnit
+requirements: [
+  graphite/30
+]

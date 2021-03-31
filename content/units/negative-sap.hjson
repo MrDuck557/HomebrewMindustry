@@ -4,6 +4,10 @@ description: I set the sap strength to -1. You see what happened
 range: 12
 armor: 2
 itemCapacity: 30
+research: nova
+requirements: [
+  surge-alloy/100
+]
 weapons: [
 {
   name: negative-sapper

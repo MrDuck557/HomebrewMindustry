@@ -6,6 +6,7 @@ size: 1
 reload: 30
 range: 20
 maxAmmo: 20
+research: duo
 requirements:[
   copper/1
 ]

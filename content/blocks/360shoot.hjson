@@ -2,6 +2,7 @@ type: ItemTurret
 name: aimIsOff
 localizedName: 360 Noshoot
 category: turret
+research: duo
 requirements:[
   copper/1
 ]

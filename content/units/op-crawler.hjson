@@ -4,7 +4,11 @@ speed: 1.1
 name: CrawlerButDumb
 description: Boom not weak
 range: 5
-weapons:[
+research: crawler
+requirements: [
+  surge-alloy/100
+]
+weapons: [
 {
   name: taser
   rotate: true

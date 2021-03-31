@@ -1,4 +1,9 @@
 name: Double
+research: wheeeeeeUnit
+requirements: [
+  silicon/10
+  titanium/10
+]
 abilities:[
   {
     type: UnitSpawnAbility

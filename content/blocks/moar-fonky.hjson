@@ -22,5 +22,6 @@ upgrades: [
   [dagger, resist-burn]
   [mace, tonk]
   [nova, negative-sap]
+  [pulsar, dont-touch]
 ]
 buildVisibility: shown

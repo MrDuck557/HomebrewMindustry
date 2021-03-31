@@ -4,3 +4,4 @@ category: turret
 requirements:[copper/1]
 targetAir: false
 targetGround: true
+research: parallax

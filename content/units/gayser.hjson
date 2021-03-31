@@ -9,7 +9,14 @@ mineTier: 1
 itemCapacity: 110
 hitSize: 32
 rotateSpeed: 1
-buildBeamOffset: 10
+buildBeamOffset: 8
+research: vela
+requirements: [
+  surge-alloy/200
+  phase-fabric/100
+  thorium/50
+  blast-compound/50
+]
 weapons: [
 {
   name: gayser-laser
