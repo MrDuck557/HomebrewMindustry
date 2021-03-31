@@ -2,3 +2,4 @@ name: commanderAir
 health: 100000
 commandLimit: 100
 type: flying
+flying: true
