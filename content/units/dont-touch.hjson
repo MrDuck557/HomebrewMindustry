@@ -16,6 +16,7 @@ weapons: [
     shootEffect: none
     smokeEffect: none
     length: 16
+    maxRange: 28
     width: 1
     lightStroke: 10
     fadeTime: 0
