@@ -11,12 +11,12 @@ rotateSpeed: 3
 rotateShooting: false
 canBoost: true
 research: op-crawler
-requirements: [
-  surge-alloy/200
-  phase-fabric/100
-  thorium/50
-  blast-compound/50
-]
+//requirements: [
+//  surge-alloy/200
+//  phase-fabric/100
+//  thorium/50
+//  blast-compound/50
+//]
 weapons: [
 {
   shots: 13

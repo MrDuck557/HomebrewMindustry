@@ -10,12 +10,12 @@ flying: false
 armor: 373263
 mechFrontSway: 0.5
 research: too-fonky
-requirements: [
-  surge-alloy/200
-  phase-fabric/100
-  thorium/50
-  blast-compound/50
-]
+//requirements: [
+//  surge-alloy/200
+//  phase-fabric/100
+//  thorium/50
+//  blast-compound/50
+//]
 weapons: [
     {
     name: railgun

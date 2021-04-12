@@ -5,9 +5,9 @@ range: 12
 armor: 2
 itemCapacity: 30
 research: nova
-requirements: [
-  surge-alloy/100
-]
+//requirements: [
+//  surge-alloy/100
+//]
 weapons: [
 {
   name: negative-sapper

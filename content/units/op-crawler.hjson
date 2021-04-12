@@ -5,9 +5,9 @@ name: CrawlerButDumb
 description: Boom not weak
 range: 5
 research: crawler
-requirements: [
-  surge-alloy/100
-]
+//requirements: [
+//  surge-alloy/100
+//]
 weapons: [
 {
   name: taser

@@ -10,6 +10,6 @@ speed: 0.4
 rotateSpeed: 2.4
 commandLimit: 6
 research: mace
-requirements: [
-  surge-alloy/100
-]
+//requirements: [
+//  surge-alloy/100
+//]

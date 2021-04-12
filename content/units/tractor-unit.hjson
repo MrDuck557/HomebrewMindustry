@@ -6,10 +6,10 @@ type: mech
 singleTarget: false
 rotateSpeed: 5
 research: parallax
-requirements: [
-  titanium/15
-  silicon/20
-]
+//requirements: [
+//  titanium/15
+ // silicon/20
+//]
 weapons: [
 {
   name: unit-tractor-beam

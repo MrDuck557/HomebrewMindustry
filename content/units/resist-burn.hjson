@@ -1,9 +1,9 @@
 name: Fire Off
 type: mech
 research: dagger
-requirements: [
-  surge-alloy/100
-]
+//requirements: [
+//  surge-alloy/100
+//]
 immunities: [
   burning
 ]

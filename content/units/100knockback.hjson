@@ -8,6 +8,6 @@ weapons:[
 }
 ]
 research: wheeeeeeUnit
-requirements: [
-  graphite/30
-]
+\\requirements: [
+\\  graphite/30
+\\]

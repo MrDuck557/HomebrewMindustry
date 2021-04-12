@@ -11,23 +11,23 @@ hitSize: 32
 rotateSpeed: 1
 buildBeamOffset: 8
 research: vela
-requirements: [
-  surge-alloy/200
-  phase-fabric/100
-  thorium/50
-  blast-compound/50
+//requirements: [
+//  surge-alloy/200
+//  phase-fabric/100
+//  thorium/50
+//  blast-compound/50
 ]
 weapons: [
 {
   name: gayser-laser
-  reload: 300
+  reload: 180
   x: 0
   y: 0
   shootY: 10
   mirror: false
   continuous: true
   shootStatus: slow
-  shootStatusDuration: 240
+  shootStatusDuration: 180
   cooldownTime: 180
   shootSound: beam
   bullet: {

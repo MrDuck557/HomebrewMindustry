@@ -3,9 +3,9 @@ description: do not the unit
 controller: SuicideAI
 type: mech
 research: moar-fonky
-requirements: [
-  surge-alloy/100
-]
+//requirements: [
+//  surge-alloy/100
+//]
 weapons: [
 {
   name: sorod
