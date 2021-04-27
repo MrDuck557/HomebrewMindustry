@@ -13,7 +13,7 @@ research: parallax
 weapons: [
 {
   name: unit-tractor-beam
-  reload: 3
+  reload: 1
   rotate: false
   continuous: false
   x: 0
@@ -26,7 +26,7 @@ weapons: [
     color: ffffff
     width: 0.4
     sapStrength: 0
-    lifetime: 20
+    lifetime: 10
     knockback: -1
     status: {
       name: slippy-slide
